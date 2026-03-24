@@ -54,3 +54,22 @@ git clone https://github.com/yourusername/neuravoice
 cd neuravoice
 pip install -r requirements.txt
 python main.py
+
+## 🖥️ TO extract GUI regfer this images
+
+Refer to **v1.gif** and **v2.gif** below for full GUI interaction:
+
+![GUI Demo 1](Images/v1.gif)
+![GUI Demo 2](Images/v2.gif)
+
+## 📸 Project Demo
+
+### 🔹 Code Execution via Voice
+![Code Execution](images/code_execution.png)
+
+## 🎥 Demo Video
+
+Short demo showcasing voice commands, code execution, and automation features:
+
+https://github.com/user-attachments/assets/your-video-link
+
