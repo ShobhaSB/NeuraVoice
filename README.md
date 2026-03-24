@@ -6,7 +6,7 @@ NeuraVoice is an AI-powered voice assistant designed to automate coding and syst
 
 ## 🖥️ GUI Preview
 
-![GUI Screenshot](images/gui.png)
+![GUI Screenshot](Images/gui.png)
 
 ---
 
@@ -24,7 +24,7 @@ NeuraVoice is an AI-powered voice assistant designed to automate coding and syst
 
 ## 🔄 System Flow
 
-![Flowchart](images/flowchart.png)
+![Flowchart](Images/flowchart.png)
 
 ---
 
