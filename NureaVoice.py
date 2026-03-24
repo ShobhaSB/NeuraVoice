@@ -22,11 +22,11 @@ from PIL import Image, ImageTk ,ImageSequence
 from bs4 import BeautifulSoup  # (Not used now, kept for potential future use)
 
 # API settings for AI-generated content
-API_KEY = "AIzaSyBm4jyzprdLKH38O3jzePOhEZUZGtPOPxI"
+API_KEY = "Your API KEY"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={API_KEY}"
 
 # SerpApi key for image search (replace with your actual key)
-SERPAPI_KEY = "4506745ad63a241d0657fa7057da9f73e39f53e25eff92853649fe2923fa6b39"
+SERPAPI_KEY = "Your API KEY"
 
 
 class Jarvis:
