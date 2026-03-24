@@ -54,6 +54,7 @@ git clone https://github.com/yourusername/neuravoice
 cd neuravoice
 pip install -r requirements.txt
 python main.py
+```
 
 ## 🖥️ TO extract GUI regfer this images
 
@@ -65,7 +66,7 @@ Refer to **v1.gif** and **v2.gif** below for full GUI interaction:
 ## 📸 Project Demo
 
 ### 🔹 Code Execution via Voice
-![Code Execution](images/code_execution.png)
+![Code Execution](Images/Code_execution.png)
 
 ## 🎥 Demo Video
 
